@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\DBusers.mdf
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\DBusers_log.ldf
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Utilizador\Desktop\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\Users\Utilizador\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
